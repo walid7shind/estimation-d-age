@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+monenv/
+venv/
+.env
+
+# MATLAB
+*.asv
+*.fig
+*.mat
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+ 
